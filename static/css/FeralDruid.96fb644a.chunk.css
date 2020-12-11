@@ -1,0 +1,2 @@
+.donut-chart{display:flex}.donut-chart>.legend{font-size:85%;flex:1 1 auto;margin-top:3px}.donut-chart>.legend>div{margin-bottom:5px}.donut-chart>.legend>div>div:not(:last-of-type){margin-right:5px}.donut-chart>.legend>div .circle{display:inline-block;border-radius:50%;width:10px;height:10px;margin-bottom:-1px}.donut-chart>.legend>div:last-of-type{margin-bottom:0}.donut-chart>.chart{flex:0 0 auto;padding-left:15px;margin:auto}
+/*# sourceMappingURL=FeralDruid.96fb644a.chunk.css.map */
