@@ -1,8 +1,8 @@
 {
   "files": {
     "static/css/0.9ef65634.chunk.css": "/WoWAnalyzer/static/css/0.9ef65634.chunk.css",
-    "static/js/0.04abdfe3.chunk.js": "/WoWAnalyzer/static/js/0.04abdfe3.chunk.js",
-    "static/js/0.04abdfe3.chunk.js.map": "/WoWAnalyzer/static/js/0.04abdfe3.chunk.js.map",
+    "static/js/0.98f02dc1.chunk.js": "/WoWAnalyzer/static/js/0.98f02dc1.chunk.js",
+    "static/js/0.98f02dc1.chunk.js.map": "/WoWAnalyzer/static/js/0.98f02dc1.chunk.js.map",
     "static/css/1.af67abb5.chunk.css": "/WoWAnalyzer/static/css/1.af67abb5.chunk.css",
     "static/js/1.d6ae2c1c.chunk.js": "/WoWAnalyzer/static/js/1.d6ae2c1c.chunk.js",
     "static/js/1.d6ae2c1c.chunk.js.map": "/WoWAnalyzer/static/js/1.d6ae2c1c.chunk.js.map",
@@ -103,8 +103,8 @@
     "OutlawRogue.js": "/WoWAnalyzer/static/js/OutlawRogue.a8aa9440.chunk.js",
     "OutlawRogue.js.map": "/WoWAnalyzer/static/js/OutlawRogue.a8aa9440.chunk.js.map",
     "PremiumPage.css": "/WoWAnalyzer/static/css/PremiumPage.4056045e.chunk.css",
-    "PremiumPage.js": "/WoWAnalyzer/static/js/PremiumPage.fa0b5edc.chunk.js",
-    "PremiumPage.js.map": "/WoWAnalyzer/static/js/PremiumPage.fa0b5edc.chunk.js.map",
+    "PremiumPage.js": "/WoWAnalyzer/static/js/PremiumPage.02557772.chunk.js",
+    "PremiumPage.js.map": "/WoWAnalyzer/static/js/PremiumPage.02557772.chunk.js.map",
     "ProtectionPaladin.css": "/WoWAnalyzer/static/css/ProtectionPaladin.e1940b80.chunk.css",
     "ProtectionPaladin.js": "/WoWAnalyzer/static/js/ProtectionPaladin.de679e03.chunk.js",
     "ProtectionPaladin.js.map": "/WoWAnalyzer/static/js/ProtectionPaladin.de679e03.chunk.js.map",
@@ -194,10 +194,10 @@
     "locale-zh-messages-json.js": "/WoWAnalyzer/static/js/locale-zh-messages-json.ecf20cce.chunk.js",
     "locale-zh-messages-json.js.map": "/WoWAnalyzer/static/js/locale-zh-messages-json.ecf20cce.chunk.js.map",
     "main.css": "/WoWAnalyzer/static/css/main.8d68d50d.chunk.css",
-    "main.js": "/WoWAnalyzer/static/js/main.dcf2c2c8.chunk.js",
-    "main.js.map": "/WoWAnalyzer/static/js/main.dcf2c2c8.chunk.js.map",
-    "runtime-main.js": "/WoWAnalyzer/static/js/runtime-main.448d03f9.js",
-    "runtime-main.js.map": "/WoWAnalyzer/static/js/runtime-main.448d03f9.js.map",
+    "main.js": "/WoWAnalyzer/static/js/main.30c1bbc3.chunk.js",
+    "main.js.map": "/WoWAnalyzer/static/js/main.30c1bbc3.chunk.js.map",
+    "runtime-main.js": "/WoWAnalyzer/static/js/runtime-main.bd0579cb.js",
+    "runtime-main.js.map": "/WoWAnalyzer/static/js/runtime-main.bd0579cb.js.map",
     "static/css/84.ad109a12.chunk.css": "/WoWAnalyzer/static/css/84.ad109a12.chunk.css",
     "static/js/84.98d040fb.chunk.js": "/WoWAnalyzer/static/js/84.98d040fb.chunk.js",
     "static/js/84.98d040fb.chunk.js.map": "/WoWAnalyzer/static/js/84.98d040fb.chunk.js.map",
@@ -212,7 +212,7 @@
     "static/js/88.ae26e51b.chunk.js": "/WoWAnalyzer/static/js/88.ae26e51b.chunk.js",
     "static/js/88.ae26e51b.chunk.js.map": "/WoWAnalyzer/static/js/88.ae26e51b.chunk.js.map",
     "index.html": "/WoWAnalyzer/index.html",
-    "precache-manifest.b4b1b63d16f54986301d2b6c79edb073.js": "/WoWAnalyzer/precache-manifest.b4b1b63d16f54986301d2b6c79edb073.js",
+    "precache-manifest.0ac5ae5838ce6d069c00597a88ba9728.js": "/WoWAnalyzer/precache-manifest.0ac5ae5838ce6d069c00597a88ba9728.js",
     "service-worker.js": "/WoWAnalyzer/service-worker.js",
     "static/css/0.9ef65634.chunk.css.map": "/WoWAnalyzer/static/css/0.9ef65634.chunk.css.map",
     "static/css/1.af67abb5.chunk.css.map": "/WoWAnalyzer/static/css/1.af67abb5.chunk.css.map",
@@ -247,7 +247,7 @@
     "static/css/TimelineTab.7c81a775.chunk.css.map": "/WoWAnalyzer/static/css/TimelineTab.7c81a775.chunk.css.map",
     "static/css/articles/2018-01-31-1st-Anniversary-index-tsx.68aa3821.chunk.css.map": "/WoWAnalyzer/static/css/articles/2018-01-31-1st-Anniversary-index-tsx.68aa3821.chunk.css.map",
     "static/css/main.8d68d50d.chunk.css.map": "/WoWAnalyzer/static/css/main.8d68d50d.chunk.css.map",
-    "static/js/0.04abdfe3.chunk.js.LICENSE.txt": "/WoWAnalyzer/static/js/0.04abdfe3.chunk.js.LICENSE.txt",
+    "static/js/0.98f02dc1.chunk.js.LICENSE.txt": "/WoWAnalyzer/static/js/0.98f02dc1.chunk.js.LICENSE.txt",
     "static/js/84.98d040fb.chunk.js.LICENSE.txt": "/WoWAnalyzer/static/js/84.98d040fb.chunk.js.LICENSE.txt",
     "static/js/87.0a929a3a.chunk.js.LICENSE.txt": "/WoWAnalyzer/static/js/87.0a929a3a.chunk.js.LICENSE.txt",
     "static/media/Abelito75-avatar.png": "/WoWAnalyzer/static/media/Abelito75-avatar.ea819d79.png",
@@ -424,10 +424,10 @@
     "static/media/weirdnelfandherfriend.png": "/WoWAnalyzer/static/media/weirdnelfandherfriend.8a538218.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.448d03f9.js",
+    "static/js/runtime-main.bd0579cb.js",
     "static/css/84.ad109a12.chunk.css",
     "static/js/84.98d040fb.chunk.js",
     "static/css/main.8d68d50d.chunk.css",
-    "static/js/main.dcf2c2c8.chunk.js"
+    "static/js/main.30c1bbc3.chunk.js"
   ]
 }
